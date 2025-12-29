@@ -1,7 +1,14 @@
-Calculator Application using Python
+# Calculator Application
 
-This project is a simple calculator that performs basic arithmetic operations
-such as addition, subtraction, multiplication, and division.
+A command-line based Calculator application built using Python.
 
-How to run:
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Handles invalid input
+- Prevents division by zero
+
+## How to Run
 python calculator.py
